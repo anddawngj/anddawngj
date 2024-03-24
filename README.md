@@ -1,9 +1,10 @@
-Hi, I'm An Dang!
+### Hello there 👋
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+#### A normal Student by day ☼ and a Open-Source Contributor by night ☾
 
-- 💼 Freelance work? Contact via [email](mailto:anddawngj@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+First-Year Student at [Hanoi University of Science and Technology](https://hust.edu.vn);<br>
+
+- ⚙️ I use daily: `.c`, `.py`, `.sql`, `.html`, `.css`, `.js`
 <!---
 - 👋 Hi, I’m @anddawngj
 - 👀 I’m interested in ...
