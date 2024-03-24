@@ -1,6 +1,9 @@
 Hi, I'm An Dang!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 💼 Freelance work? Contact via [email](mailto:anddawngj@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 <!---
 - 👋 Hi, I’m @anddawngj
 - 👀 I’m interested in ...
